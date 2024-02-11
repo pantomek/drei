@@ -1,5 +1,5 @@
 {
-  "name": "@react-three/drei",
+  "name": "pantomek/drei",
   "version": "0.0.0-semantic-release",
   "private": true,
   "description": "useful add-ons for react-three-fiber",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmndrs/drei.git"
+    "url": "git+https://github.com/pantomek/drei.git"
   },
   "license": "MIT",
   "bugs": {
